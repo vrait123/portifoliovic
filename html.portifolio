@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+  <header>
+    <h1>Vitória</h1>
+    <p>Oi, meu nome é Vitória e tenho 17 anos.</p>
+  </header>
+
+  <main>
+    <p>
+      Gosto de ouvir música, desenhar, jogar basquete, assistir jogos de futebol,
+      e ver séries, meu desenho favorito é The Owl House. Também gosto muito de andar de bicicleta, nadar, ir pra praia com a minha família, fazer trilhas,
+      cantar e tocar violão com os meus irmãos, pescar, passear com os meus amigos e ter um tempo de qualidade com os meus
+      pais. Gosto muito de carros, assistir gameplays, ir pra igreja, aprender coisas novas, gosto de cuidar dos meus primos e brincar na rua
+      com eles. Eu odeio a mesmice, odeio pessoas ignorantes, não gosto muito de conhecer pessoas novas, odeio calça
+      apertada, odeio etiquetas e não gosto de ter que acordar cedo.
+    </p>
+
+    <section class="topics-section">
+      <h2>Meus Interesses Principais</h2>
+      
+      <div class="topic">
+        <h3>🎨 Atividades Criativas e Artísticas</h3>
+        <p>
+          Adoro me expressar através da arte! Gosto muito de desenhar, especialmente inspirada em séries como The Owl House. 
+          A música também é uma grande paixão - cantar e tocar violão com meus irmãos são momentos especiais. 
+          Essas atividades me permitem ser criativa e me conectar com pessoas queridas.
+        </p>
+      </div>
+
+      <div class="topic">
+        <h3>🏃‍♀️ Vida Ativa e Aventuras</h3>
+        <p>
+          Sou uma pessoa que ama movimento e aventura! Praticar basquete, andar de bicicleta, nadar e fazer trilhas 
+          me dão energia e liberdade. Ir à praia com a família, pescar e brincar na rua com meus primos são formas 
+          de aproveitar a vida ao ar livre e fugir da mesmice que tanto odeio.
+        </p>
+      </div>
+
+      <div class="topic">
+        <h3>👨‍👩‍👧‍👦 Conexões Familiares e Valores</h3>
+        <p>
+          A família é muito importante para mim. Valorizo o tempo de qualidade com meus pais, cuidar dos meus primos 
+          e os momentos musicais com meus irmãos. Também gosto de ir à igreja e aprender coisas novas. 
+          Prefiro conexões profundas com pessoas próximas do que conhecer muitas pessoas novas.
+        </p>
+      </div>
+    </section>
+  </main>
+  <script src="script.js"></script>
+</body>
+
+</html>
